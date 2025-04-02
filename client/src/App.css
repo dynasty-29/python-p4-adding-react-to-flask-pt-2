@@ -1,0 +1,11 @@
+body{
+  font-family: cursive;
+  padding: 30px;
+  margin: 10px;
+  background-color: cornflowerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
